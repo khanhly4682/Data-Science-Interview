@@ -1,4 +1,0 @@
-## Why we use F1 not accuracy?
-
-- F1 Score is the weighted average of Precision and Recall.
-- This takes account both FP and FN
