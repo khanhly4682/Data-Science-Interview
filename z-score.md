@@ -3,9 +3,10 @@ __1. What is a Z-Score?__
 - z-score (also called a standard score) gives you an idea of how far from the mean a data point is. 
 - More technically it’s a measure of how many standard deviations below or above the population mean a raw score is.
 
-z-score = 1 means your data point is 1 standard deviation above the mean.
-z-score = 2 means your data point is 2 standard deviations above the mean.
-z-score = -1.8 means your data point is -1.8 standard deviations below the mean.
+E.g.
+- z-score = 1 means your data point is 1 standard deviation above the mean.
+- z-score = 2 means your data point is 2 standard deviations above the mean.
+- z-score = -1.8 means your data point is -1.8 standard deviations below the mean.
 
 A z-score tells you where the score lies on a normal distribution curve. A z-score of zero tells you the values is exactly average while a score of +3 tells you that the value is much higher than average.
 
